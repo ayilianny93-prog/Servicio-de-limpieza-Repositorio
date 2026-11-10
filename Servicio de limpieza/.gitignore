@@ -1,0 +1,25 @@
+# Dependencias
+node_modules/
+
+# Entornos y credenciales
+.env
+.env.local
+
+# Resultados de compilación y distribución
+dist/
+build/
+.output/
+
+# Sistema Operativo
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Editores de código
+.vscode/
+.idea/
+
+# Registros y caché
+*.log
+.cache/
+.vite/
